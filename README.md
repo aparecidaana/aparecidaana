@@ -1,5 +1,5 @@
 - 👋 ola eu sou a Ana Julia 
-- 👀 estou aprendendo github
+- 👀 
 - 🌱 estou aprendendo a programar na linguagem javaScript
 - 💞️ meu endereço de E-mail é ana.aparecida.pinto@escola.pr.gov.br
 - 📫 How to reach me ...
